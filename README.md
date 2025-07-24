@@ -43,18 +43,34 @@ And it works **while you're asleep**.
 
 ---
 
-## 📦 Real-World Bill of Materials (BOM)
+## 🏗️ Construction & Deployment
 
-See `bom/` folder for cost-effective parts with actual distributors — nothing fictional, nothing speculative.  
-Includes:
+See [`docs/full_build_walkthrough.md`](docs/full_build_walkthrough.md) for complete step-by-step field build instructions.
 
-- Solar panels
-- Hydrogen conversion cell
-- Qi coil + LED
-- ESP32-C3
-- Suction pump
-- Mesh filters
-- Recycled rubber blend
+**Quick Specs:**
+
+* Height: \~9 ft
+* Structure: polycarbonate + rubber + steel mesh
+* Phone Shelf Height: \~4 ft
+* Ground Intake Gap: \~1 inch screened
+* Assembly: bolt-in concrete with weatherproof casing
+
+---
+
+## 📦 Materials
+
+View full Bill of Materials here:
+[`bom/full_bom.md`](bom/full_bom.md)
+
+Materials include:
+
+* Recycled tire rubber (outer shell)
+* Polycarbonate tubing (main frame)
+* Qi pad, solar panel, 12V LED strips
+* Water pump, electrolysis cell
+* Microcontroller (XIAO ESP32-C3), TEGs, RF harvester
+
+All components are **real-world buildable** — no fantasy or speculative parts.
 
 ---
 
